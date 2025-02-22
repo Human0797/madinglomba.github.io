@@ -219,10 +219,10 @@ footer p {
   box-shadow: var(--card-shadow);
   transition: var(--transition);
   background: #fff;
-  max-width: 317px;
+  max-width: 280px;
   overflow: hidden;
   cursor: pointer;
-  margin-inline: 10px;
+  margin-inline: 3px;
   margin-block: 50px;
   max-height: 750px;
 }
