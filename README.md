@@ -15,10 +15,8 @@ Screenshots :
 <br />
 <br />
 -Kategori
-![image](https://github.com/user-attachments/assets/106edcbe-e952-4902-ba59-d0cae4aebdc3)
-
+![image](https://github.com/user-attachments/assets/ef625925-ca5c-4afa-8448-f0061367b846)
 <br />
 <br />
 -Login
-![image](https://github.com/user-attachments/assets/2e32bdef-065c-42aa-b0c0-f72a3af3ba2f)
-
+![image](https://github.com/user-attachments/assets/b19db8f4-0e5d-4068-b98e-12f9f59f2b28)
